@@ -1,5 +1,5 @@
 # guns
-A database of mass shootings in Australia in the last 25 years. 
+A database of mass shootings in Australia in the last 25 years (i.e. after the gun buy-back).  
 
 Compiled from various sources. 
 
